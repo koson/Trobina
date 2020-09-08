@@ -34,6 +34,7 @@ namespace ExcelAddInTest
             while (isTalking && (synth.State==SynthesizerState.Speaking))
             {
                 ;
+
             }
             synth.Dispose();
         }
