@@ -11,3 +11,16 @@ C:\Users\GMateusDP\source\repos\ExcelAddInTest\obj\Debug\ExcelAddInTest.dll
 C:\Users\GMateusDP\source\repos\ExcelAddInTest\obj\Debug\ExcelAddInTest.pdb
 C:\Users\GMateusDP\source\repos\ExcelAddInTest\obj\Debug\ExcelAddInTest.Ribbon1.resources
 C:\Users\GMateusDP\source\repos\ExcelAddInTest\obj\Debug\ExcelAddInTest.csprojAssemblyReference.cache
+F:\GitHubRepos\CANOpen\Trobina\bin\Debug\ExcelAddInTest.dll
+F:\GitHubRepos\CANOpen\Trobina\bin\Debug\ExcelAddInTest.pdb
+F:\GitHubRepos\CANOpen\Trobina\bin\Debug\ExcelAddInTest.dll.manifest
+F:\GitHubRepos\CANOpen\Trobina\bin\Debug\ExcelAddInTest.vsto
+F:\GitHubRepos\CANOpen\Trobina\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\GitHubRepos\CANOpen\Trobina\obj\Debug\ExcelAddInTest.csproj.AssemblyReference.cache
+F:\GitHubRepos\CANOpen\Trobina\obj\Debug\ExcelAddInTest.Properties.Resources.resources
+F:\GitHubRepos\CANOpen\Trobina\obj\Debug\ExcelAddInTest.Ribbon1.resources
+F:\GitHubRepos\CANOpen\Trobina\obj\Debug\ExcelAddInTest.csproj.GenerateResource.cache
+F:\GitHubRepos\CANOpen\Trobina\obj\Debug\ExcelAddInTest.csproj.CoreCompileInputs.cache
+F:\GitHubRepos\CANOpen\Trobina\obj\Debug\ExcelAddInTest.csproj.CopyComplete
+F:\GitHubRepos\CANOpen\Trobina\obj\Debug\ExcelAddInTest.dll
+F:\GitHubRepos\CANOpen\Trobina\obj\Debug\ExcelAddInTest.pdb
